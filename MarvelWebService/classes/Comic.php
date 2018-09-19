@@ -2,8 +2,7 @@
 /**
  * Created by PhpStorm.
  * User: Brandon
- * Date: 8/5/2018
- * Time: 12:37 PM
+ *
  */
 
 class Comic

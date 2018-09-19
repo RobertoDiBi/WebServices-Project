@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Brandon
- * Date: 8/5/2018
- * Time: 12:19 PM
+ *@author robertodibiase
  */
 if($_SERVER['REQUEST_METHOD'] === 'POST'){
     $id = $_POST["seriesID"];

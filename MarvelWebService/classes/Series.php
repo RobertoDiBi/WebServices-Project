@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Brandon
- * Date: 8/4/2018
- * Time: 7:10 PM
+ * @author robertodibiase
  */
 
 class Series

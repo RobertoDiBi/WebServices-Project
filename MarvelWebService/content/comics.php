@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Brandon
- * Date: 8/5/2018
- * Time: 12:30 PM
- */
 include "classes/getComicsBySeriesID.php";
 $series = $_SESSION['current_series'];
 ?>
