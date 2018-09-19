@@ -1,0 +1,32 @@
+
+/* 
+    Created on : 3-Aug-2018, 11:23:10 AM
+    Author     : robertodibiase
+*/
+
+#searchHeader{
+    color:#6d1a0b;
+}
+
+div.scrolling-wrapper {
+    background-color: red;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrolling-wrapper div {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+div.scrolling-wrapper img:hover {
+     color:rgba(9, 162, 255, 1);
+}
+
+
+#video{
+    height: 800px;
+}

@@ -1,0 +1,10 @@
+Team:
+Brandon Lauer
+Roberto Di Biase
+
+Marvel api keys: 
+	public key: cf7f5b10bbf6f8bc72334114a8029ff9
+	private key: 92ecbb0ceb7c9b92b385b47b799e3c4508b46a8a
+
+Youtube api key:
+	AIzaSyBH39-kbcvAoSEd7z_b4edBPQahdMkdpnE
